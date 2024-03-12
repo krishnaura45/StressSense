@@ -639,7 +639,7 @@ df_imf_low
 
 """# *Strategy 2*"""
 
-# Commented out IPython magic to ensure Python compatibility.
+'''Commented out IPython magic to ensure Python compatibility.
 # %%capture
 # setnos,feature_1,feature_2,labels=[],[],[],[]
 # sampling_rate=256    # Hz
@@ -678,6 +678,7 @@ df_imf_low
 #     j=j+1
 #   k=k+1
 #   j=1
+'''
 
 df_imf_low=pd.DataFrame(zip(setnos,feature_1,feature_2,labels),columns=['Set_no','Imf_1','Imf_2','Label'])
 df_imf_low
