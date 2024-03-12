@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# ***Converting images from .npy to .jpg format***
 import numpy as np
 
 img_array = np.load('/content/image_1.npy')
