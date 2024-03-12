@@ -1,6 +1,6 @@
-# StressSense : Estimation of stress levels using PPG signals
+# Stress Sense : Estimation of stress levels using PPG signals
 
-StressSense is a health concerned research project for effective diagnosis of mental stress levels. It involves binary classification of mental stress, excluding the stress in rest condition.
+Stress Sense is a health concerned research project for effective diagnosis of mental stress levels. It involves binary classification of mental stress, excluding the stress in rest condition.
 
 ### INTRODUCTION
 - Stress has become a major concern in modern societies.
