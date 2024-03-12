@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# ***Research on SPAR***
+# ***Research on feature extraction using SPAR***
 
 **Creating function for SPAR (Symmetric Projection Attractor Reconstruction)**
 """
